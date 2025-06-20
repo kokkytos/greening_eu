@@ -19,3 +19,6 @@ The output/tables directory stores the resulting data tables:
 - *output/tables/NDVI.csv*: Mean NDVI values aggregated per FUA and year.
 
 Also, a webpage of the results is available at: https://kokkytos.github.io/greenness_eu/
+
+[![Webpage](webpage.png)](https://kokkytos.github.io/greenness_eu/)
+
